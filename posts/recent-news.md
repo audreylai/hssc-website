@@ -1,0 +1,15 @@
+---
+title: "Recent News"
+description: "Most recent and up to date news."
+date: "2020-12-27"
+image: ""
+subject: ""
+era: ""
+author: "Riya Paryani"
+---
+
+The most powerful T10 typhoon has hit Hong Kong since 2018 - Typhoon Saola. On the 1st of September, fierce winds of over 220 km/h were expected. All schools, stores and companies were closed for the day as everyone stayed home, listening to the howls of the wind hit their windows. 24 hours after the incident, over 1,500 fallen trees, 21 cases of flooding, 2 landslides and masses of broken scaffolding were reported. At least 86 people were injured by the vicious typhoon. 520 people took refuge at 40 temporary shelters across the city which were opened by the Home Affairs Department. Thankfully, after that day, the recovery was pretty fast with people immediately starting to work again the next day and reopening stores, trains and bus routes; clean up attempts are also taking place everywhere. Additionally, after over 400 flights were canceled, 280 inbound and outbound flights took place the day after.  
+
+Tragically, just a week after Typhoon Saola, on the 8th of September, dark clouds returned to loom over the skyline as torrential black rain engulfed Hong Kong. Hourly rainfall of over 200mm was recorded by the Hong Kong Observatory in the hour after the warning was raised. The streets rapidly transformed into rivers, with water cascading down the alleys and overflowing drains. Yet again, all functions were halted and people remained in homes or shelters. However, all infrastructure strained under the assault, with localized flooding affecting transportation and the MTR especially. At least 2 people have terribly passed away due to the storm, many others were evacuated from the scene. Nevertheless, despite the challenges posed by the biggest rainstorm seen in HK since 140 years ago, through offering assistance and support to those in need, as the rainstorm eventually subsided - the journey towards recovery arose. Unfortunately, nature did not just stop there, for the third week in a row, all systems were put on halt yet again. On the 14th of September, this time a Thursday rather than a Friday, the horrid weather turned into a 3 week curse as a red rainstorm was issued. Downpours specifically hit in Ma On Shan, exceeding 100 mm/h. Thankfully, this was still a better situation than the previous ones with no deaths reported. Recovery was quick and stable weather for the coming weeks is expected. 
+
+On a metaphorically and literally brighter note, on the National Day of Hong Kong - the 1st of October, after a 5 year break due to the pandemic, the firework show is coming back with a bang. The fireworks planned would cost about 18 million HKD and is expected to be a 23-minute long spectacle. 32,000 individual fireworks would be used to showcase eight scenes in order to boost morale in the city. Be sure not to miss the extraordinary extravaganza at 9 pm on this remarkable day. 

@@ -53,14 +53,14 @@ export default function Home() {
 
         <div className="grid grid-cols-7 gap-x-12 text-blackolive-700 ">
           <div className="flex flex-col col-span-2 space-y-16">
-            {postPreviews}
+            {postPreviews.slice(0,2)}
           </div>
 
           <div className="flex flex-col col-span-3 space-y-16">
-            {postPreviews}
+            {postPreviews.slice(2,3)}
           </div>
           <div className="flex flex-col col-span-2 space-y-16">
-            {postPreviews}
+            {postPreviews.slice(3,4)}
           </div>
         </div>
       </div>
