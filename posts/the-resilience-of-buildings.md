@@ -1,0 +1,21 @@
+---
+title: "The Resilience of Buildings"
+description: "When tectonic plates move, it’s hard to withstand change. Mountain ranges are born, the earth shakes, and robust concrete buildings crumble. But despite the volatile ground they stand on, some buildings seem to remain unscathed, untouchable by seismic activity."
+date: "2020-12-27"
+image: "image1.png"
+subject: "Geography"
+era: ""
+author: "Amy XU"
+---
+
+When tectonic plates move, it’s hard to withstand change. Mountain ranges are born, the earth shakes, and robust concrete buildings crumble. But despite the volatile ground they stand on, some buildings seem to remain unscathed, untouchable by seismic activity.
+
+From Naggar Castle which has sat proud for 500 years to the traditionally built settlements in Himalayan towns, the kath kuni building technique has proven its resilience in the face of earthquakes. The meaning of kath kuni - “wooden corner” - becomes evident when looking closer at the structures. Beams of wood meet at the corners, alternating with layers of packed stone. Even below the ground, kath kuni structures are built upon trenches filled with loose stone. Free of rigid mortar and metal, these buildings have flexible walls that adjust in an earthquake and loose stone bases allow them to shift with the movement of the ground. And that heavy, overhanging roof, seemingly trying to topple over the whole thing? Not to fear, heavy stones weigh down the buildings, lowering the centre of gravity. In fact, the roof acts as a stabilising force, holding everything securely in place.
+
+On another continent, medieval architecture defies the destructive force of earthquakes by calmly sinking into the ground. Balzers, a town in Liechtenstein, is subject to the tectonic forces that birthed the Alps, experiencing the occasional earthquake. Whilst modern buildings may crack, dropping broken windows and balconies into the streets, the oldest ones in the town, such as Gutenberg Castle, remained undamaged. What was the secret to these medieval structures’ resilience? In Gutenberg Castle, the first floor was open air, holding pens for livestock, with walls disconnected from the floor. This style of construction was also echoed by the farmhouses surrounding the castle. Over the centuries, from settlement and frequent earthquakes, the walls have sunk deeper into the ground, creating a robust, deep foundation. On the other hand, modern buildings securely attached on all sides can be easily torn apart by earthquakes.
+
+Compared to the fierce, volatile power of earthquakes, the soft pattering of raindrops may seem feeble. After all, what can a fragile drop of water do once it hits the rigid body of a building apart from shatter? But after the sizzling of a storm, a new threat materialises: water infiltrates the cracks of wood, causing them to become bloated and misshapen; mould slithers behind any sign of dampness, clinging onto walls and ceilings. When considering these cunning forces of damage, we start to wonder how buildings subject to centuries of rain have not rotted away.
+
+The East Asian Monsoon ushers moist air from the Pacific Ocean and South China Sea towards central and northern China, Korea, and Japan every summer, creating humid, rainy conditions. It’s a miracle how the intricate and ostentatious designs of the Forbidden City have not been lost to all this dampness. Looking from above, the golden tiles lining the roofs of every building glint in sunlight. Packed tightly and coated with a lustrous layer of enamel, they are invulnerable to water. With a slope exceeding 60o, water rushes off the decorative roofs. But the wooden supports essential in holding up a building are susceptible to rotting and deformation. To defend against this, they are painted over with a waterproof layer of tung oil, not only creating a burnished sheen but also acting as a shield against moisture. If that is not enough, some multiple story buildings are also protected by layers of hemp and ash beneath the vivid vermillion paint.
+
+After centuries of being pounded by rain, rocked by earthquakes, soaked by floods, and whipped by wind, buildings can still stand proud, a testament to the careful attention to detail of the people in the past. Perhaps we can learn something from their intelligent techniques that refuse to crumble in the face of the elements.

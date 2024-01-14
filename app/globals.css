@@ -7,3 +7,13 @@ body
 {
     @apply bg-alabaster-300
 }
+
+html::-webkit-scrollbar {
+  display: none;
+}
+
+/* For IE, Edge and Firefox */
+html {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
